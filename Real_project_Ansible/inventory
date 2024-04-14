@@ -1,0 +1,11 @@
+[prometheus]
+43.207.196.91
+
+[node_exporter]
+43.207.196.91
+
+[alertmanager]
+43.207.196.91
+
+[grafana]
+43.207.196.91
